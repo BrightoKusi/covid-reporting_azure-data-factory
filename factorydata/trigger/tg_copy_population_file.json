@@ -2,7 +2,7 @@
 	"name": "tg_copy_population_file",
 	"properties": {
 		"annotations": [],
-		"runtimeState": "Stopped",
+		"runtimeState": "Started",
 		"pipelines": [],
 		"type": "BlobEventsTrigger",
 		"typeProperties": {
