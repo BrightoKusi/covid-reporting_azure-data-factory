@@ -10,7 +10,8 @@
 					"type": "PipelineReference"
 				},
 				"parameters": {
-					"sourcRelativeUrl": "cloudboxacademy/covid19/raw/main/ecdc_data/hospital_admissions.csv"
+					"sourcRelativeUrl": "cloudboxacademy/covid19/raw/main/ecdc_data/hospital_admissions.csv",
+					"sinkFileName": "hospital_admissions.csv"
 				}
 			}
 		],
